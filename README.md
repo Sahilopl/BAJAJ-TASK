@@ -8,7 +8,7 @@ This repository stays in sync with your deployed app on [Vercel](https://bajaj-t
 
 ## Deployment
 
-MY project is live at:
+My project is live at:
 
 **[Doctor Listing Page on Vercel](https://bajaj-task-orpin.vercel.app/)**
 
