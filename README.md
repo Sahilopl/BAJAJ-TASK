@@ -1,30 +1,30 @@
-# Doctor listing page
+# Doctor Listing Page
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sahilopls-projects/v0-doctor-listing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/sPawM63SfTb)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://bajaj-task-orpin.vercel.app/)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This repository stays in sync with your deployed app on [Vercel](https://bajaj-task-orpin.vercel.app/). Any changes you make to your deployed app will be automatically pushed to this repository.
 
 ## Deployment
 
 Your project is live at:
 
-**[https://vercel.com/sahilopls-projects/v0-doctor-listing-page](https://vercel.com/sahilopls-projects/v0-doctor-listing-page)**
+**[Doctor Listing Page on Vercel](https://bajaj-task-orpin.vercel.app/)**
 
-## Build your app
 
-Continue building your app on:
 
-**[https://v0.dev/chat/projects/sPawM63SfTb](https://v0.dev/chat/projects/sPawM63SfTb)**
+
 
 ## How It Works
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. **Clone the repository**: Start by cloning the repository to your local machine.
+2. **Set up the development environment**: Install all necessary dependencies and set up your local environment.
+3. **Build your app**: Develop and customize your app by editing the components, filters, and UI as needed.
+4. **Deploy using Vercel**: Once you're happy with your changes, deploy the app directly to Vercel for easy hosting.
+5. **Automatic Deployment**: After deploying, every change you make in your project is automatically pushed to the repository, ensuring Vercel always serves the latest version.
+6. **Continuous Updates**: Any updates made on the Vercel interface will automatically reflect on your live site and be pushed to the GitHub repository for version control.
+
+---
+
+Let me know if you need any further modifications!
