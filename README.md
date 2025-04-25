@@ -1,6 +1,7 @@
 # Doctor Listing Page
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://bajaj-task-orpin.vercel.app/)
+![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=for-the-badge&logo=next.js)
 
 ## Overview
 
